@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="478px" height="365px" viewBox="0 0 478 365" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Untitled 2</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F9FCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <circle id="Oval-10" stroke="#97A8B9" stroke-width="3" stroke-linecap="round" stroke-dasharray="10" sketch:type="MSShapeGroup" cx="239" cy="212" r="150"></circle>
+        <polygon id="Triangle-1" stroke="#97A8B9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10" sketch:type="MSShapeGroup" points="238 63 363 293 113 293 "></polygon>
+        <path d="M293.853137,49.1389783 C291.882047,23.328931 270.315063,3 244,3 C220.825038,3 201.332613,18.7668079 195.664324,40.1588257 C171.774464,42.1259756 153,62.122293 153,86.5 C153,112.181242 173.835978,133 199.538462,133 L244,133 L259,133 L274,133 L284.5,133 C306.867533,133 325,113.972103 325,90.5 C325,70.4061228 311.711365,53.5692449 293.853137,49.1389783 Z" id="Oval-1" stroke="#97A8B9" stroke-width="3" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+        <path d="M173.853137,237.138978 C171.882047,211.328931 150.315063,191 124,191 C100.825038,191 81.3326132,206.766808 75.6643241,228.158826 C51.7744636,230.125976 33,250.122293 33,274.5 C33,300.181242 53.8359777,321 79.5384615,321 L124,321 L139,321 L154,321 L164.5,321 C186.867533,321 205,301.972103 205,278.5 C205,258.406123 191.711365,241.569245 173.853137,237.138978 Z" id="Oval-1" stroke="#97A8B9" stroke-width="3" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+        <path d="M413.853137,237.138978 C411.882047,211.328931 390.315063,191 364,191 C340.825038,191 321.332613,206.766808 315.664324,228.158826 C291.774464,230.125976 273,250.122293 273,274.5 C273,300.181242 293.835978,321 319.538462,321 L364,321 L379,321 L394,321 L404.5,321 C426.867533,321 445,301.972103 445,278.5 C445,258.406123 431.711365,241.569245 413.853137,237.138978 Z" id="Oval-1" stroke="#97A8B9" stroke-width="3" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

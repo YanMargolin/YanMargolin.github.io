@@ -1,0 +1,33 @@
+ul.accordion 
+  list-style: none
+  margin: 0
+  padding: 0
+
+ul.accordion label + input[type='radio']
+  display: none
+
+ul.accordion li 
+  margin: 0px
+
+ul.accordion label
+  display: block
+  padding: 10px 0
+
+  h3  
+    color: $legal-blue
+
+  h3:hover
+    text-decordation: underline
+
+ul.accordion label:hover 
+  cursor: pointer
+
+ul.accordion div.accordion-content
+  overflow: hidden
+  margin-top: -25px
+  margin-bottom: 30px
+  display: none
+
+ul.accordion label + input[type='radio']:checked + div.accordion-content
+  display: block
+
